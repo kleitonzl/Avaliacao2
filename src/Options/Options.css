@@ -1,0 +1,21 @@
+
+option{
+    background-color: hsl(217, 12%, 63%) ;
+    border-radius: 100px;
+    max-width: 20px;
+    text-align: center;
+    color:hsl(216, 12%, 54%) ;
+    flex-direction: row;
+   
+    
+    
+}
+option:hover{
+    background-color:  hsl(25, 97%, 53%);
+    color: white;
+}
+.optionsLine{
+    
+    display: inline-block;
+    
+}

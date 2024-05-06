@@ -1,0 +1,37 @@
+
+.card{
+    background:hsl(213, 19%, 18%);
+    width: 400px;
+    height: 400px;
+    text-align: start;
+    border-radius: 30px;
+    padding: 0 25px 0 25px;
+    align-items: center;
+    
+}
+p{
+    color:hsl(217, 12%, 63%) ;
+    margin: 10px;
+}
+h1{
+    color: white;
+    margin: 10px;
+    padding-top: 20px;
+}
+button{
+    border-radius: 30px;
+    width: 350px;
+    padding: 15px;
+    border: white;
+    color:hsl(25, 97%, 53%);
+    word-spacing: 50px;
+    margin: 10px;
+}
+img{
+ background-color:  hsla(216, 12%, 54%, 0.404);
+ border-radius: 50px;
+ 
+
+ 
+ 
+}
